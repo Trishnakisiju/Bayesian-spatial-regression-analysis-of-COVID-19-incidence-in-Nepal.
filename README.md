@@ -32,7 +32,7 @@ Data sources (database or websites) for the variables used in the study are list
 
 14. Median age: Census Nepal 2011. Available at: https://censusnepal.cbs.gov.np/Home/Details?tpid=5&dcid=57d4bc52-50ca-4acb-b7fc-20c8923831e5&tfsid=1
 
-15. Average annual temperature and precipitation: ICIMOD. Available at: https://rds.icimod.org/Home/Data?group=12
+15. Average annual temperature and precipitation: ICIMOD. Available at: http://rds.icimod.org/
 
 16. Total population: Annex of Preliminary report of Census 2021. Available at: https://censusnepal.cbs.gov.np/Home/Details?tpid=5&dcid=a82d0762-6f49-4752-a02d-19fdaddc55ed&tfsid=17
 
