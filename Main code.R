@@ -54,13 +54,13 @@ sd(np2$COVID_cases2)
 sd(np2$Tot_pop21)
 
 
-## 2.Check for Overdispersion
+## 2.Test for Overdispersion
 require(qcc)
 qcc.overdispersion.test(np2[!is.na(np2$COVID_Inc2),]$COVID_Inc2, type="poisson")
 hist(np2$COVID_Inc2)
 
 ## 3.Negative Binomial Regression: 
-### Univariable linear regression: Demographic variable
+### Univariable negative binomial regression
 
 require(MASS)
 names(np2)
@@ -91,7 +91,7 @@ lm_result7
 print(lm_result7[lm_pval5 < 0.25,])
 
 
-### Multiple negative binomial (Model adjusted for covariates population density, sex ratio, climate variables and mean age)
+### Multivariable negative binomial regression (Model adjusted for covariates population density, sex ratio, climate variables and mean age)
 
 
 require(MASS)
