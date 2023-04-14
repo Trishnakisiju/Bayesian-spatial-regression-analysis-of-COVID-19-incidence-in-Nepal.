@@ -1,6 +1,6 @@
 # Bayesian spatial regression analysis of COVID-19 incidence in Nepal.
 
-Data and code for reproducibility of the paper "Association between COVID-19 incidence and socioeconomic indicators and level of access to health care in Nepal: a district-level Bayesian spatial regression analysis"
+Data and code for reproducibility of the paper "Influences of socioeconomic and healthcare indicators on COVID-19 incidence in Nepal: a district-level Bayesian spatial regression analysis"
 
 Data sources (database or websites) for the variables used in the study are listed below.
 
